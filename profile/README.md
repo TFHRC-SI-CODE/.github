@@ -33,7 +33,7 @@ The CODE aims to help address this gap by providing a shared, open, and collabor
 
 The value of this GitHub space depends on participation from the transportation community. We encourage researchers, State DOTs, universities, technology developers, practitioners, and other stakeholders to contribute projects, code, documentation, datasets, examples, and ideas.
 
-Whether you have a fully developed AI tool or an early-stage research prototype, your work can help others, and others can help make your work better.
+By sharing your work, whether an early prototype or a finished AI tool, you open the door to collaborations that benefit the larger community.
 
 ### We Welcome Contributions Ranging From:
 * AI Models
@@ -52,7 +52,7 @@ Whether you have a fully developed AI tool or an early-stage research prototype,
 
 ## Let's Build Together
 
-Our vision is to create a growing community where transportation professionals can find, share, adapt, and improve AI solutions for real-world highway challenges.
+Our vision is to create a growing community where transportation professionals can discover, share, adapt, and improve AI solutions for real-world highway challenges.
 
 > **Have a project to share? Have a problem you're trying to solve? Have code or data that others could benefit from?**  
 > Join us, contribute, and collaborate.
