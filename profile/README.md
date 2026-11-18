@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/AICOE_logoTextBlue_082526.mu.svg" alt="CODE Header Banner" width="100%">
+  <img src="../assets/SICOE_logoText_R2.1_11.05.26.mu-BLUyel.png" alt="CODE Header Banner" width="100%">
 </p>
 
 # Welcome to the Collaborative Open Development Environment (CODE) GitHub Community
